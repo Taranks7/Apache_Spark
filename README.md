@@ -1,4 +1,4 @@
-# Apache_Spark
+# Apache Spark
 
 Used the following online course: [Spark - Udacity](https://classroom.udacity.com/courses/ud2002) 
 
