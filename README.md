@@ -1,6 +1,6 @@
 # Apache_Spark
 
-Used the following online course: Spark - Udacity. https://classroom.udacity.com/courses/ud2002
+Used the following online course: [Spark - Udacity](https://classroom.udacity.com/courses/ud2002) 
 
 
 Lesson 1: Intoduction  <br/>
